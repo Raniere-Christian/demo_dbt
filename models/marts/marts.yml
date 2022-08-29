@@ -3,3 +3,6 @@ version: 2
 models:
   - name: dim_customer
     description: Customer dimension.
+
+  - name: aux_exchange_rates
+    description: Daily eschange rates.
